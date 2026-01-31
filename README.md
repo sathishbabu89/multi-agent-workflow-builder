@@ -3,7 +3,6 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)](https://streamlit.io)
 [![CrewAI](https://img.shields.io/badge/crewai-latest-green.svg)](https://github.com/joaomdmoura/crewAI)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 DevHero is an intelligent AI orchestration platform that transforms natural language requirements into working code through dynamic multi-agent collaboration with human oversight.
 

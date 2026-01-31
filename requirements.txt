@@ -1,0 +1,5 @@
+
+streamlit==1.49.1
+python-dotenv
+GitPython
+crewai==0.193.0
